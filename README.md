@@ -6,7 +6,7 @@
 // This source code is a part of Project Violet.
 // Copyright (C) 2020. violet-team. Licensed under the MIT Licence.
 
-// Implementation of distance functions that satisfy trigonometry.
+// Implementation of distance functions that satisfy triangle inequality.
 
 import 'dart:math';
 
