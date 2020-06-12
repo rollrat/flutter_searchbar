@@ -45,6 +45,10 @@ class Distance {
 
 ## Text Clustering
 
+### K-d Tree
+
+### VPTree
+
 ## Elastic Search
 
 ## UI
